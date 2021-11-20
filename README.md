@@ -61,5 +61,9 @@ efetch -db nucleotide -id NC_045512 -format fasta > NC_045512.fasta
 -   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7114242/
 -   https://www.mdpi.com/1999-4915/12/5/498/htm#B24-viruses-12-00498
 
+### Identify Open Reading Frame
+-   https://ib.bioninja.com.au/options/untitled/b2-biotechnology-in-agricul/gene-identification.html
+
+
 
 
