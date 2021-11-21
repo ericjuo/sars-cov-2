@@ -4,7 +4,7 @@ A collection of information about SARS-CoV-2 virus
 ##  &#128161;Questions
 --- 
 ###  What is SARS-CoV-2 virus?
-Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a highly transmissible virus that causes coronavirus disease (COVID-19). SARS-CoV-2 belongs to coronaviruses - a family of enveloped positive-strand RNA viruses. The GC content of SARS-CoV-2 genome is 37%, which is lower than the mean GC content of other coronavirus (39%). The neucleotide composition of the SARS-CoV-2 genome are A(29%), T(32%), C(18%), G(19%).
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a highly transmissible virus that causes coronavirus disease (COVID-19). SARS-CoV-2 belongs to coronaviruses - a family of enveloped positive-strand RNA viruses. The GC content of SARS-CoV-2 genome is 37%, which is slightly lower than the mean GC content of other coronavirus (39%). The neucleotide composition of the SARS-CoV-2 genome are A(29%), T(32%), C(18%), G(19%), while the mean nucleotide composition of Coronavirus genome are: A(27.22%), T(33.77%), C(17.57%), G(21.44%). The SARS-CoV-2 genome contains 9 open reading frames.
 
 
 ###  What are symptoms after SARS-CoV-2 infection?
